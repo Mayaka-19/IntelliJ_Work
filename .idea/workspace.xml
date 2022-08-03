@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1ddf2af-892c-406e-90eb-b1619330c6ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruits.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hesabu.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parent.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wanafunzi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lonemayaka/META-INF/lonemayaka.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lonemayaka/META-INF/lonemayaka.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/calc.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AsiefAHtZgGr5Ua3VWtiA60Wou" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin.ParentKt">
+    <configuration name="FruitsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FruitsKt" />
+      <module name="lonemayaka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <module name="lonemayaka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HesabuKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HesabuKt" />
+      <module name="lonemayaka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParentKt" />
+      <module name="lonemayaka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WanafunziKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WanafunziKt" />
+      <module name="lonemayaka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ParentKt" />
+        <item itemvalue="Kotlin.WanafunziKt" />
+        <item itemvalue="Kotlin.FruitsKt" />
+        <item itemvalue="Kotlin.HesabuKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1ddf2af-892c-406e-90eb-b1619330c6ac" name="Changes" comment="" />
+      <created>1655804824532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655804824532</updated>
+      <workItem from="1655804858692" duration="109000" />
+      <workItem from="1655805846515" duration="323000" />
+      <workItem from="1655873961069" duration="43000" />
+      <workItem from="1655885851814" duration="5363000" />
+      <workItem from="1655973031427" duration="5961000" />
+      <workItem from="1655979684512" duration="1313000" />
+      <workItem from="1656310670753" duration="15000" />
+      <workItem from="1656319336056" duration="762000" />
+      <workItem from="1656404530767" duration="5019000" />
+      <workItem from="1656483931434" duration="22000" />
+      <workItem from="1656492192457" duration="5093000" />
+      <workItem from="1656579716339" duration="643000" />
+      <workItem from="1659520638948" duration="473000" />
+      <workItem from="1659521226494" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
